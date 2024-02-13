@@ -1,0 +1,68 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding-top: 50px;
+	background-color: #2f3e46 !important;
+	padding-bottom: 50px;
+}
+
+
+#intro {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	margin-bottom: 5px;
+	color: gray !important;
+}
+
+#created {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	font-size: 12vw;
+	color: #cad2c5 !important;
+}
+
+#with {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	font-size: 12vw;
+	color: #cad2c5 !important;
+}
+
+#time {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	font-size: 12vw;
+	color: #cad2c5 !important;
+}
+
+#effort {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: bold;
+	font-size: 12vw;
+	color: #cad2c5 !important;
+}
+/*End of Home Section CSS*/
+
+/*Button section*/
+#kiss-button {
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #cad2c5 !important;
+
+	background-color: #84a98c;
+}
+
+#kiss-button:hover {
+	background-color: #84a98c;
+	transition: 0.7s;
+}
+
+#kiss-button:active {
+	background-color: #84a98c;
+}

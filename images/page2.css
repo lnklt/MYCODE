@@ -1,0 +1,60 @@
+body {
+    background-image: url('heart.jpg');
+}
+
+#cute {
+    margin-left: 80px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+/*text section*/
+#div1 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#text {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #d90429 !important;
+}
+
+
+
+/*Button section*/
+#kiss-button {
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 24px;
+
+    background-color: #ff8fab;
+}
+
+#kiss-button:hover {
+    background-color: #ff8fa3;
+    transition: 0.7s;
+}
+
+#kiss-button:active {
+    background-color: #ff8fa3;
+}
+
+/*Button section*/
+#kiss-button2 {
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 24px;
+
+    background-color: #ffc2d1;
+}
+
+#kiss-button2:hover {
+    background-color: #ffc2d1;
+    transition: 0.7s;
+}
+
+#kiss-button2:active {
+    background-color: #ffc2d1;
+}
